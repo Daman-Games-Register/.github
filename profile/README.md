@@ -1,7 +1,7 @@
 # Daman Games Register
 Board on journey of online games with daman by your phone number and One Time password you got on your mobile number. Daman games provide lucrative sign up bonus and multiple rewards such as 30% bonus on your first deposit. Join Daman with our link and get Rs 250 bonus instantly. 
-**Sign Up Now** - [Daman Sign Up](damanclubb.in)
-Claim Your Bonus - [Login Now](https://damanclubb.in/daman-games-app/)
+# Sign Up Now - [Daman Sign Up](damanclubb.in)
+# Claim Your Bonus - [Login Now](https://damanclubb.in/daman-games-app/)
 
 ## Benefits of Daman Game Register
 The Daman Games platform enables you to cover your essential living costs. Start your winning streak in games now. Countless users are earning crores each day just by referring the app to others and enjoying a lifelong fixed commission.
