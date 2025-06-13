@@ -29,12 +29,19 @@ Every registered user in daman has its unique referral code which is to share th
 # Daman Games Register Bonus Claim 
 Deposit bonus is very necessary in order to maximise bonus amount. Generally this deposit bonus is only available when we deposit in daman wallet for first time so we suggest to recharge with max amount in order to get more befits of bonus. Here is the procedure to claim your sign up bonus. 
 
-*Access your Daman Club account by logging in.*
-*Navigate to the account section located in the bottom menu of the game.*
-*Select the "Deposit Money" option.*
-*Choose your preferred deposit method, input the desired amount, and press the "Deposit" button.*
-*Launch your UPI app, finalize the payment, and record the 12-digit UTR number along with a screenshot of the successful transaction.*
-*Return to your Daman Game account, enter the 12-digit UTR, and upload the payment proof.*
-*Allow at least 5 minutes for the funds to be credited to your game wallet.*
-*If the amount fails to reflect in your game wallet, you may proceed with the necessary actions, such as reaching out to customer support.*
+1) Access your Daman Club account by logging in.
+
+2) Navigate to the account section located in the bottom menu of the game.
+
+3) Select the "Deposit Money" option.
+
+4) Choose your preferred deposit method, input the desired amount, and press the "Deposit" button.
+
+5) Launch your UPI app, finalize the payment, and record the 12-digit UTR number along with a screenshot of the successful transaction.
+
+6) Return to your Daman Game account, enter the 12-digit UTR, and upload the payment proof.
+
+7) Allow at least 5 minutes for the funds to be credited to your game wallet.
+
+8) If the amount fails to reflect in your game wallet, you may proceed with the necessary actions, such as reaching out to customer support.
 
